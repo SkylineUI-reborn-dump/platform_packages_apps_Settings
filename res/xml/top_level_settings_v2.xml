@@ -148,6 +148,14 @@
             settings:controller="com.android.settings.fuelgauge.TopLevelBatteryPreferenceController"/>
 
         <com.android.settings.widget.HomepagePreference
+            android:fragment="com.skylineui.settings.laboratory.LabSettings"
+            android:icon="@drawable/ic_skylineui_lab"
+            android:key="top_level_lab"
+            android:order="-50"
+            android:title="@string/skylineui_lab_title"
+            android:summary="@string/skylineui_lab_summary"/>
+
+        <com.android.settings.widget.HomepagePreference
             android:fragment="com.android.settings.system.SystemDashboardFragment"
             android:icon="@drawable/ic_settings_system_dashboard_filled"
             android:key="top_level_system"
