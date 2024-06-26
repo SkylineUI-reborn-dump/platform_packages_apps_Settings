@@ -53,7 +53,7 @@
         android:defaultValue="false" />
 
     <!-- Ignore window secure --> 
-    <com.android.settings.custom.preference.SecureSettingSwitchPreference
+    <com.android.settings.custom.preference.GlobalSettingSwitchPreference
         android:order="92"
         android:key="window_ignore_secure"
         android:title="@string/ignore_window_secure_title"
