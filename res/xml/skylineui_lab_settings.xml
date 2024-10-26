@@ -60,4 +60,12 @@
         android:summary="@string/ignore_window_secure_summary"
         android:defaultValue="false"/>
 
+    <!-- Carrier name on lockscreen -->
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="lockscreen_show_carrier"
+        android:icon="@drawable/ic_sim_outline"
+        android:title="@string/lockscreen_show_carrier_title"
+        android:summary="@string/lockscreen_show_carrier_summary"
+        android:defaultValue="true" />
+
 </PreferenceScreen>
