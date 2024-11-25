@@ -224,10 +224,6 @@
     <string name="app_notification_sound_timeout_value_15_minutes">15 minutes</string>
     <string name="app_notification_sound_timeout_value_30_minutes">30 minutes</string>
 
-    <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_enable_power_menu_title">Power menu</string>
-    <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
-
     <!-- Lock screen pattern size -->
     <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
     <string name="lock_pattern_size_4" translatable="false">4 \u00d7 4</string>

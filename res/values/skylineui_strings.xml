@@ -23,6 +23,10 @@
     <string name="skylineui_lab_footer">Warning: These features are experimental and may have risks. Use them with caution.</string>
     <string name="skylineui_lab_summary">Experimental features</string>
 
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">Power menu</string>
+    <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
+
     <!-- Idle Manager -->
     <string name="idle_manager_title">Kill background processes</string>
     <string name="idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
